@@ -144,7 +144,7 @@ window.BUSINESSES = [
     ]
   },
   {
-   "logo": "assets/logo_dv_hair_usuario.jpg",
+   "logo": "assets/logo_dv_hair_usuario.png.jpg",
     "name": "DV Hair — Daiana Villanueva",
     "category": "Cuidado Personal",
     "address": "Pueblo San José",
