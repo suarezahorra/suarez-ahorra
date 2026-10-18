@@ -54,8 +54,9 @@ window.BUSINESSES = [
     "address": "Av. S. Rodríguez 1484",
     "phone": "2926549278",
     "offers": [
-      "20% reintegro Cuenta DNI lunes a viernes y 20% de descuento en efectivo.",
-      "Bolsa de papa $24.000; ensaladas y sopas surtidas; verduras de la quinta."
+      "20% de reintegro con Cuenta DNI de lunes a viernes.",
+      "20% de descuento pagando en efectivo.",
+      "Bolsa de papa $30.000; ensaladas y sopas surtidas; espinaca, acelga, rúcula, coliflor y lechuga de la quinta."
     ]
   },
   {
@@ -75,7 +76,7 @@ window.BUSINESSES = [
     "name": "La Popular",
     "category": "Alimentos y Bebidas",
     "address": "Av. Alemanes del Volga 2717, Santa Trinidad",
-    "phone": "",
+    "phone": "2926-465749",
     "offers": [
       "Milanesas de carne 2 kg $24.999; chorizo 2 kg $19.999; pata muslo 2 kg $11.990.",
       "Picada 2 kg $21.999; 2 maples de huevo $10.000; milanesas de pollo 3 kg $30.000.",
@@ -89,8 +90,9 @@ window.BUSINESSES = [
     "address": "Av. S. Rodríguez esquina Villegas",
     "phone": "2926461060",
     "offers": [
-      "25% descuento en efectivo; 20% reintegro Cuenta DNI lunes a viernes.",
-      "10% descuento con otros medios de pago; envíos sin cargo; abierto de 8 a 21 hs."
+      "Todo en frutas y verduras; también comidas preparadas.",
+      "25% de descuento pagando en efectivo; 20% de reintegro con Cuenta DNI de lunes a viernes.",
+      "10% de descuento con cualquier otro medio de pago; envíos sin cargo; abierto de 8 a 21 hs."
     ]
   },
   {
@@ -100,9 +102,9 @@ window.BUSINESSES = [
     "address": "Lamadrid esquina Sarmiento",
     "phone": "2926543739",
     "offers": [
-      "10% descuento en compras superiores a $15.000.",
-      "Maple de huevos $5.800; tomate $2.000; banana $2.000; mandarina 2 kg $3.000; miel $3.900.",
-      "Domingos de 10 a 12 y de 18:30 a 20:30."
+      "10% de descuento en compras superiores a $15.000.",
+      "Maple de huevos $5.800; miel pura $3.900; frutillas, arándanos y uvas.",
+      "Domingos abierto de 10:00 a 12:00 y de 18:30 a 20:30."
     ]
   },
   {
@@ -112,9 +114,9 @@ window.BUSINESSES = [
     "address": "R. Argentina 1244",
     "phone": "2926478218",
     "offers": [
-      "3 kg pata muslo $12.999; 2 pollos $25.300; 2 kg milanesas carne o pollo $18.500.",
-      "2 kg aguja $19.990; asado $17.000/kg; vacío $20.000/kg.",
-      "20% reintegro Cuenta DNI lunes a viernes."
+      "3 kg de pata muslo $12.999; 2 pollos enteros $25.300; 2 kg de milanesas de carne o pollo $18.500.",
+      "2 kg de aguja $19.990; asado $17.000/kg; vacío $20.000/kg; ¡y muchas ofertas más!",
+      "20% de reintegro con Cuenta DNI de lunes a viernes."
     ]
   },
   {
@@ -142,15 +144,16 @@ window.BUSINESSES = [
     ]
   },
   {
-    "logo": "assets/logo_original_hair_daiana_villanueva.jpeg",
-    "name": "Hair — Daiana Villanueva",
+    "logo": "assets/logo_dv_hair_usuario.jpg",
+    "name": "DV Hair — Daiana Villanueva",
     "category": "Cuidado Personal",
     "address": "Pueblo San José",
-    "phone": "2923525227",
+    "phone": "2923-525227",
     "offers": [
-      "Cortes, lavado y brushing, peinados y tratamientos capilares.",
-      "Solo con turnos; promo Día de la Madre: 10% descuento por 2 servicios."
-    ]
+      "Cortes, lavado + brushing, peinados y tratamientos capilares.",
+      "Solo con turnos. Nuevo servicio: PHOTO SUPREME LIZZE."
+    ],
+    "subtitle": "Estilista"
   },
   {
     "logo": "assets/logo_original_valeria_bentos.jpeg",
@@ -367,10 +370,14 @@ window.BUSINESSES = [
     "address": "Brandsen esquina Lamadrid",
     "phone": "1157245561",
     "offers": [
-      "Levi’s, Lamode, Pura Pampa, Las Tobianas, Tucci y La Cofradía.",
-      "30% descuento efectivo; cuotas sin interés Banco Provincia y Banco Nación."
+      "Marcas: Levi’s, TUCCI, La Cofradía, LAMODE y DOLL STORE.",
+      "Banco Provincia: 30% y hasta 6 cuotas.",
+      "Banco Nación: 30% y hasta 12 pagos.",
+      "Elebar: 25% y 9 cuotas.",
+      "Coopeplus: 15% de ahorro y 3 cuotas.",
+      "10% de descuento pagando en efectivo o transferencia."
     ],
-    "logo": "assets/logo_original_menta_babys.png"
+    "logo": "assets/logo_original_lola_narsh.jpeg"
   },
   {
     "name": "Mimi – Ropa para chicos",
@@ -390,7 +397,11 @@ window.BUSINESSES = [
     "phone": "1157245561",
     "offers": [
       "Indumentaria masculina; marcas Levi’s y Pato Pampa.",
-      "30% descuento efectivo; cuotas sin interés Banco Provincia y Banco Nación."
+      "Banco Provincia: 30% y hasta 6 cuotas.",
+      "Banco Nación: 30% y hasta 12 pagos.",
+      "Elebar: 25% y 9 cuotas.",
+      "Coopeplus: 15% de ahorro y 3 cuotas.",
+      "10% de descuento pagando en efectivo o transferencia."
     ],
     "logo": "assets/logo_con_h_correcto.jpg"
   },
@@ -401,9 +412,12 @@ window.BUSINESSES = [
     "address": "Lamadrid 708",
     "phone": "2926516030",
     "offers": [
-      "3 potes de 1 litro + casatta $22.000; 3 potes de medio kilo + 2 cups $22.000.",
-      "2 casattas o almendrados $18.000; 1 casatta o almendrado $9.500.",
-      "1 kg de helado tradicional $15.000."
+      "2 cucuruchos Medium $5.000.",
+      "3 potes de 1 litro + casatta $22.000.",
+      "3 casattas $18.000 o $7.500 c/u.",
+      "1 casatta o almendrado $9.500.",
+      "2 mixto o almendrado $18.000.",
+      "1 kg de helado tradicional $16.000."
     ]
   },
   {
@@ -578,9 +592,9 @@ window.BUSINESSES = [
     "address": "Belgrano esquina Junín",
     "phone": "2926-463661",
     "offers": [
-      "2 kg milanesas de carne $25.000; chorizos 2 kg $20.000; picada 2 kg $20.000.",
-      "Maples de huevo $12.000; milanesas de pollo 2 kg $22.000; cortes de cerdo $8.000/kg.",
-      "20% reintegro con Cuenta DNI de lunes a viernes."
+      "2 kg de milanesas de carne $25.000; 2 kg de chorizos $20.000; 2 kg de picada $20.000.",
+      "2 maples de huevos $12.000; 2 kg de milanesas de pollo $22.000; cortes de cerdo $8.000/kg.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes."
     ],
     "logo": "assets/logo_original_carniceria_abigail.jpg"
   },
@@ -614,9 +628,9 @@ window.BUSINESSES = [
     "address": "Av. Casey esquina Urquiza",
     "phone": "2926-515221",
     "offers": [
-      "Picada 3 kg + 1 maple $29.999; milanesas de carne 3 kg $30.000.",
-      "Pata muslo 3 kg $14.999; hamburguesas 3 kg $21.999.",
-      "10% descuento en efectivo y 20% reintegro Cuenta DNI de lunes a viernes."
+      "Carne picada 3 kg + 1 maple $29.999; milanesas de carne 3 kg $30.000.",
+      "Todos los cortes de cerdo $9.999/kg; pata muslo 3 kg $14.999; hamburguesas 2 kg $21.999.",
+      "10% de descuento en efectivo; 20% de reintegro con Cuenta DNI de lunes a viernes."
     ],
     "logo": "assets/logo_original_frigor_fico_las_cu_adas.jpeg"
   },
@@ -637,19 +651,21 @@ window.BUSINESSES = [
     "address": "Montevideo 1120, Santa Trinidad",
     "phone": "2926-469859",
     "offers": [
-      "2 pollos $21.999; pata muslo 2 kg $11.999; milanesas 2 kg $21.999.",
-      "Congelados y productos de almacén; lunes a sábados 8:30–12:30 y 16:30–20:30."
+      "2 pollos $21.999; 2 kg de pata muslo $11.999; 2 kg de milanesas $21.999; 1 kg de hamburguesas $14.999.",
+      "Variedad de congelados y productos de almacén.",
+      "Lunes a sábados de 8:30 a 12:30 y de 16:30 a 20:30 hs."
     ],
     "logo": "assets/logo_original_granja_la_alemana.jpeg"
   },
   {
     "name": "El Ángel de la Carne",
     "category": "Alimentos y Bebidas",
-    "address": "Av. Sixto Rodríguez 1241",
-    "phone": "2926-463661",
+    "address": "Av. Sixto Rodríguez",
+    "phone": "2926-542380",
     "offers": [
-      "Paleta, chingolo, falda o bife ancho $15.990/kg; cuadril o bola de lomo $17.900/kg.",
-      "10% descuento en efectivo; reintegros con Cuenta DNI y Banco La Pampa según topes."
+      "Paleta, chingolo, falda o bife ancho $15.990/kg.",
+      "Asado, vacío, peceto, nalga, colita de cuadril o tapa de nalga $19.900/kg; cuadrada o bola de lomo $17.900/kg.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes; 25% de descuento con Banco La Pampa (tope $25.000 de reintegro semanal)."
     ],
     "logo": "assets/logo_original_el_ngel_de_la_carne.jpeg"
   },
@@ -670,8 +686,9 @@ window.BUSINESSES = [
     "address": "17 de Agosto 223",
     "phone": "2926-516510",
     "offers": [
-      "Pata muslo 2 kg $11.000; 3 kg $15.000; milanesas de pechuga 1 kg $11.000.",
-      "20% reintegro con Cuenta DNI de lunes a viernes; acepta todos los medios de pago."
+      "2 kg de pata muslo $11.000; 3 kg $15.000; 1 kg de milanesas de pechuga $11.000; 2 kg de alitas $8.000.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes.",
+      "Aceptamos todos los medios de pago."
     ],
     "logo": "assets/logo_original_pehuenia_poller_a.jpeg"
   },
@@ -802,7 +819,9 @@ window.BUSINESSES = [
     "address": "Villegas 242",
     "phone": "2926-401177",
     "offers": [
-      "Artículos de limpieza; 10% de descuento pagando en efectivo."
+      "Artículos de limpieza.",
+      "Todos los medios de pago; 10% de descuento pagando en efectivo.",
+      "Envíos sin cargo en compras superiores a $10.000."
     ],
     "logo": "assets/logo_pural_correcto.png"
   },
@@ -838,11 +857,13 @@ window.BUSINESSES = [
   },
   {
     "name": "AriCar Electricidad",
-    "category": "Insumos para el Comercio y la Industria",
+    "category": "Materiales para la Construcción",
     "address": "Belgrano 1968",
     "phone": "2926-459151",
     "offers": [
-      "Electricidad."
+      "Materiales eléctricos e iluminación.",
+      "15% de descuento y 3 cuotas sin interés con Cuenta DNI; 6 cuotas sin interés con tarjetas Banco Provincia.",
+      "15% de descuento pagando en efectivo o transferencia."
     ],
     "logo": "assets/logo_aricar.jpg"
   },
@@ -902,7 +923,9 @@ window.BUSINESSES = [
     "address": "Av. Conturbi esquina Belgrano",
     "phone": "2926-417627",
     "offers": [
-      "Agendas 2027, librería, juguetería y cotillón."
+      "Agendas, planificadores y almanaques 2027; llegó el cotillón para Halloween.",
+      "De lunes a viernes: 20% de reintegro con Cuenta DNI.",
+      "10% de reintegro en 4 o 6 cuotas sin interés con tarjetas de crédito Banco Provincia, de lunes a viernes."
     ],
     "logo": "assets/logo_la_esquina.png"
   },
@@ -992,7 +1015,8 @@ window.BUSINESSES = [
     "address": "R. Argentina 1290",
     "phone": "2926-400755",
     "offers": [
-      "20% reintegro Cuenta DNI de lunes a viernes; promociones en pizzas, empanadas y pollo."
+      "20% reintegro Cuenta DNI de lunes a viernes; promociones en pizzas, empanadas y pollo.",
+      "Sorteo aniversario: participás con tu compra."
     ],
     "logo": "assets/logo_tato_correcto.png"
   },
