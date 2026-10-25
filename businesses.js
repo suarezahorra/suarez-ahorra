@@ -30,8 +30,8 @@ window.BUSINESSES = [
     "address": "Alem 483",
     "phone": "2926430107",
     "offers": [
-      "Combo queso barra San Francisco + paleta Cabaña Argentina $6.500.",
-      "Queso Sardo $17.000; queso cremoso San Francisco o La Carreta $10.500.",
+      "Combo queso barra San Francisco + paleta especial Cabaña Argentina $7.000.",
+      "Queso Sardo $17.500; queso cremoso San Francisco o La Carreta $10.000.",
       "20% reintegro Cuenta DNI lunes a viernes; todos los medios de pago."
     ]
   },
@@ -56,7 +56,7 @@ window.BUSINESSES = [
     "offers": [
       "20% de reintegro con Cuenta DNI de lunes a viernes.",
       "20% de descuento pagando en efectivo.",
-      "Bolsa de papa $30.000; ensaladas y sopas surtidas; espinaca, acelga, rúcula, coliflor y lechuga de la quinta."
+      "Bolsa de papa $36.000; ensaladas y sopas surtidas; espinaca, acelga, rúcula, coliflor y lechuga de la quinta."
     ]
   },
   {
@@ -144,7 +144,7 @@ window.BUSINESSES = [
     ]
   },
   {
-   "logo": "assets/logo_dv_hair_semana.png.jpg",
+    "logo": "assets/logo_dv_hair_usuario.jpg",
     "name": "DV Hair — Daiana Villanueva",
     "category": "Cuidado Personal",
     "address": "Pueblo San José",
@@ -310,10 +310,10 @@ window.BUSINESSES = [
     "name": "Elise Boutique",
     "category": "Indumentaria y Calzado",
     "address": "Av. Casey 872",
-    "phone": "2926412976",
+    "phone": "2926-412976",
     "offers": [
-      "Liquidación total de invierno: 15% descuento.",
-      "Remeras Catalina de la Cruz a $15.000."
+      "Liquidación total de temporada invierno: 15% de descuento.",
+      "Pasá a ver lo que tenemos para vos."
     ],
     "logo": "assets/logo_original_elise_boutique.jpeg"
   },
@@ -437,11 +437,12 @@ window.BUSINESSES = [
     "name": "Mr. Queso",
     "category": "Restaurantes, Bares, Rotiserías y Heladerías",
     "address": "Av. Alemanes del Volga 2655, Santa Trinidad",
-    "phone": "2926404521",
+    "phone": "2926-404521",
     "offers": [
-      "Queso cremoso Dayegui $9.400/kg; pollo al asador $25.000.",
-      "Hamburguesa + cono de fritas $10.000; pizza muzzarella $13.000; 1/2 kg fiambre surtido $7.200.",
-      "20% reintegro Cuenta DNI lunes a viernes."
+      "Queso cremoso Dayegui $9.400/kg; pollo al asador $30.000.",
+      "Hamburguesa + cono de fritas $12.000; pizza muzzarella $15.000; 1/2 kg de fiambre surtido $7.200.",
+      "Además: tartas, pastas, pastel de papa, fiambre primavera, hamburguesas y muchas ofertas más.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes."
     ]
   },
   {
@@ -509,16 +510,6 @@ window.BUSINESSES = [
     "offers": [
       "Viernes y sábados: empanadas de carne, jamón y queso, y pollo.",
       "1 docena $18.000; 2 docenas $34.000; se hacen envíos."
-    ]
-  },
-  {
-    "logo": "assets/logo_original_mym_remis.png",
-    "name": "MyM",
-    "category": "Servicios",
-    "address": "",
-    "phone": "2926466416",
-    "offers": [
-      "Remis, auto mandado y viajes de corta, media y larga distancia."
     ]
   },
   {
@@ -729,7 +720,11 @@ window.BUSINESSES = [
     "address": "Av. San Martín 218",
     "phone": "2926-409706",
     "offers": [
-      "Hasta 20% en productos seleccionados Lidherma y 3 cuotas sin interés."
+      "Hasta 30% de descuento en productos seleccionados Lidherma.",
+      "10% de descuento en perfumes y fragancias.",
+      "Hasta 40% de descuento en dermocosmética.",
+      "Hasta 30% de descuento en productos capilares.",
+      "Botiquines de primeros auxilios."
     ],
     "logo": "assets/logo_original_farmacia_g_mez.jpeg"
   },
@@ -847,7 +842,7 @@ window.BUSINESSES = [
   },
   {
     "name": "Refrigeración Berlain",
-    "category": "Hogar",
+    "category": "Servicios",
     "address": "",
     "phone": "2926-466664",
     "offers": [
@@ -1049,5 +1044,20 @@ window.BUSINESSES = [
       "Lavado de autos, camionetas, motos, carros, camiones y acoplados; limpieza de tapizados."
     ],
     "logo": "assets/logo_original_lavadero_cp.png"
+  },
+  {
+    "name": "Bora Bora Home",
+    "category": "Hogar",
+    "address": "Av. Alemanes del Volga 1009, Santa María",
+    "phone": "",
+    "offers": [
+      "Platos playos de diario $1.000.",
+      "Copas $3.900.",
+      "Repasadores $1.800.",
+      "Cortinas de baño de tela rústica $19.400.",
+      "Protector de cortina $7.150.",
+      "Ganchos $14.900."
+    ],
+    "logo": "assets/logo_bora_bora_home.png"
   }
 ];
