@@ -23,3 +23,29 @@ Correcciones adicionales aplicadas el 12/10/2026:
 - Indumentaria: corrección de logos identificados para Aura Active, Chill, Con H, Lunéa, Menta Babys, Lola Narsh, María Modas, Íntima y Moda Urbana; Morada se conserva.
 - Restaurantes: logo original de Tato y Punto Casero.
 - Servicios: logo combinado Cobro Express + Andreani.
+
+
+Actualización preparada para la semana del 19 al 24/10/2026:
+- Fecha de la guía actualizada en la pantalla inicial.
+- Nuevo rubro independiente: Materiales para la Construcción.
+- AriCar Electricidad movida desde “Insumos para el Comercio y la Industria” a “Materiales para la Construcción”.
+- Fichas de Lola Narsh y Con H actualizadas con Banco Provincia, Banco Nación, Elebar, Coopeplus y descuento en efectivo/transferencia.
+
+
+Correcciones adicionales para la guía del 19 al 24/10/2026:
+- Frutería El Parque: bolsa de papa $30.000 y beneficios actualizados.
+- Agronatural Verdulería y La Amistad: ofertas y beneficios actualizados según página 1.
+- Carnicería Abigail, Frigorífico Las Cuñadas, El Ángel de la Carne, Lo de Martín, Granja La Alemana y Pollería Pehuenia: precios y beneficios revisados según páginas 1 y 2.
+- DV Hair: logo recortado de la página 3 de esta semana y servicio PHOTO SUPREME LIZZE.
+- Pural: 10% efectivo y envíos sin cargo en compras superiores a $10.000.
+- La Esquina: cotillón Halloween, 20% Cuenta DNI y 10% reintegro en 4/6 cuotas sin interés con Banco Provincia.
+- Lola Narsh: corregida asignación del logo original.
+- AriCar Electricidad: categoría Materiales para la Construcción y beneficios completos.
+
+Correcciones adicionales solicitadas el 18/10/2026:
+- DV Hair: reemplazado el logo por la imagen original enviada por el usuario.
+- Materiales para la Construcción: reubicado en el orden de rubros entre Mascotas y Restaurantes, Bares, Rotiserías y Heladerías.
+- Lomoro Helados: ficha actualizada según la guía del 19 al 24 de octubre, incluidos precios y sorteo aniversario.
+
+- Corrección: el sorteo aniversario corresponde a Tato Rotisería y Anexos, no a Lomoro Helados.
+- DV Hair: agregado el subtítulo “Estilista” debajo del nombre en las fichas y tarjetas.

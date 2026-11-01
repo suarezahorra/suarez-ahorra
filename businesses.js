@@ -60,18 +60,6 @@ window.BUSINESSES = [
     ]
   },
   {
-    "logo": "assets/logo_original_su_rez_natural.jpeg",
-    "name": "Suárez Natural",
-    "category": "Alimentos y Bebidas",
-    "address": "Alem 433",
-    "phone": "2926478829",
-    "offers": [
-      "Productos sin TACC; caldo de verduras $2.290; aceite de oliva Zuelo $15.990; premezcla $8.500.",
-      "Budines saludables, cookies, smoothies, frutos secos, harinas y frutas liofilizadas.",
-      "20% reintegro Cuenta DNI lunes a viernes."
-    ]
-  },
-  {
     "logo": "assets/logo_original_la_popular.jpeg",
     "name": "La Popular",
     "category": "Alimentos y Bebidas",
@@ -144,18 +132,6 @@ window.BUSINESSES = [
     ]
   },
   {
-    "logo": "assets/logo_dv_hair_usuario.jpg",
-    "name": "DV Hair — Daiana Villanueva",
-    "category": "Cuidado Personal",
-    "address": "Pueblo San José",
-    "phone": "2923-525227",
-    "offers": [
-      "Cortes, lavado + brushing, peinados y tratamientos capilares.",
-      "Solo con turnos. Nuevo servicio: PHOTO SUPREME LIZZE."
-    ],
-    "subtitle": "Estilista"
-  },
-  {
     "logo": "assets/logo_original_valeria_bentos.jpeg",
     "name": "Valeria Bentos",
     "category": "Cuidado Personal",
@@ -199,17 +175,6 @@ window.BUSINESSES = [
       "Botines, pelotas, canilleras, guantes de arquero y bolsos.",
       "Compra online: www.puntopenal.com.ar.",
       "3 cuotas sin interés con tarjetas; envíos sin cargo desde $30.000."
-    ]
-  },
-  {
-    "logo": "assets/logo_original_todo_deportes_mj.jpeg",
-    "name": "Todo Deportes",
-    "category": "Deportes",
-    "address": "Brandsen 238",
-    "phone": "",
-    "offers": [
-      "Indumentaria y accesorios para fútbol, rugby, hockey, vóley y básquet.",
-      "Nueva temporada; liquidación de prendas con descuentos de hasta 50/60% y palos de hockey."
     ]
   },
   {
@@ -502,17 +467,6 @@ window.BUSINESSES = [
     ]
   },
   {
-    "logo": "assets/logo_original_todo_caserito.png",
-    "name": "Todo Caserito",
-    "category": "Restaurantes, Bares, Rotiserías y Heladerías",
-    "address": "Primer Triunvirato 453",
-    "phone": "2926471510",
-    "offers": [
-      "Viernes y sábados: empanadas de carne, jamón y queso, y pollo.",
-      "1 docena $18.000; 2 docenas $34.000; se hacen envíos."
-    ]
-  },
-  {
     "logo": "assets/logo_original_scheihing.png",
     "name": "Scheihing",
     "category": "Servicios",
@@ -790,7 +744,7 @@ window.BUSINESSES = [
   },
   {
     "name": "Casa Gonzalo",
-    "category": "Hogar",
+    "category": "Electrodomésticos y Tecnología",
     "address": "",
     "phone": "2926-454362",
     "offers": [
@@ -1059,5 +1013,103 @@ window.BUSINESSES = [
       "Ganchos $14.900."
     ],
     "logo": "assets/logo_bora_bora_home.png"
+  },
+  {
+    "name": "Lavadero El Toni",
+    "category": "Servicios",
+    "logo": "assets/logo_lavadero_el_toni.png",
+    "address": "Maipú 4483, San José",
+    "phone": "2926400800",
+    "offers": [
+      "Lavadero de autos y camionetas.",
+      "Atiende de lunes a sábados.",
+      "Promoción publicada: autos $35.000 y camionetas $40.000; consultar vigencia."
+    ]
+  },
+  {
+    "name": "Álvarez Moreno Propiedades",
+    "category": "Inmobiliarias",
+    "logo": "assets/logo_alvarez_moreno.png",
+    "address": "Rivadavia 431, Coronel Suárez, Buenos Aires",
+    "phone": "2926497579",
+    "offers": [
+      "Ventas, alquileres y remates.",
+      "Casas, campos y lotes; administraciones.",
+      "Asesoramiento profesional. Jeremías Álvarez Moreno, martillero y corredor público, matrícula 1884."
+    ]
+  },
+  {
+    "name": "FAVA Tienda",
+    "category": "Electrodomésticos y Tecnología",
+    "logo": "assets/logo_fava_tienda.png",
+    "address": "Sarmiento 163",
+    "phone": "2926422304",
+    "website": "https://fava.com.ar",
+    "offers": [
+      "Celulares, Smart TV, heladeras, lavarropas, muebles, colchones y cocinas.",
+      "Todos los medios de pago.",
+      "Consultá ofertas y opciones de financiación en fava.com.ar."
+    ]
+  },
+  {
+    "name": "FAVA Préstamos",
+    "category": "Servicios Financieros",
+    "logo": "assets/logo_fava_prestamos.png",
+    "address": "Sarmiento 163",
+    "phone": "2926422304",
+    "website": "https://fava.com.ar",
+    "offers": [
+      "Solicitá tu préstamo online en fava.com.ar.",
+      "Montos y cuotas sujetos a condiciones vigentes.",
+      "También podés solicitarlo presencialmente en la sucursal."
+    ]
+  },
+  {
+    "name": "FAVA Tarjeta",
+    "category": "Servicios Financieros",
+    "logo": "assets/logo_fava_tarjeta.png",
+    "address": "Sarmiento 163",
+    "phone": "2926422304",
+    "website": "https://fava.com.ar",
+    "offers": [
+      "Solicitá tu tarjeta online en fava.com.ar.",
+      "Beneficios y promociones en tiendas de Suárez.",
+      "Consultá condiciones y promociones vigentes en la web."
+    ]
+  },
+  {
+    "name": "FF Aventura",
+    "category": "Turismo",
+    "logo": "assets/logo_ff_aventura.png",
+    "address": "Lamadrid 891",
+    "phone": "2926456599",
+    "offers": [
+      "Circuitos, viajes y turismo.",
+      "Prepará tu próximo viaje; asesoramiento personalizado.",
+      "Consultar próximas salidas y promociones vigentes."
+    ]
+  },
+  {
+    "name": "Farmacia Coronel Suárez",
+    "category": "Farmacias y Salud",
+    "logo": "assets/logo_farmacia_coronel_suarez.png",
+    "address": "Avellaneda esquina Lavalle",
+    "phone": "2926500906",
+    "offers": [
+      "Jueves de jubilados: 15% de descuento en efectivo o transferencia.",
+      "La promoción publicada excluye medicamentos; consultar vigencia."
+    ]
+  }
+  ,{
+    "name": "Alfajores de la Costa",
+    "category": "Alimentos y Bebidas",
+    "logo": "assets/logo_alfajores_de_la_costa.jpg",
+    "address": "San José 3652, San José",
+    "phone": "2926456173",
+    "offers": [
+      "Alfajores rellenos de dulce de leche y baño de chocolate.",
+      "Bandejas de 4 o 6 unidades.",
+      "Envíos a domicilio y pedidos por mayor para comercios."
+    ]
   }
 ];
