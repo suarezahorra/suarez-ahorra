@@ -49,3 +49,26 @@ Correcciones adicionales solicitadas el 18/10/2026:
 
 - Corrección: el sorteo aniversario corresponde a Tato Rotisería y Anexos, no a Lomoro Helados.
 - DV Hair: agregado el subtítulo “Estilista” debajo del nombre en las fichas y tarjetas.
+
+
+Actualización para la guía del 09 al 21/11/2026:
+- Fecha de portada de la app actualizada al 09 al 21 de noviembre de 2026.
+- Pural: 15% de descuento pagando en efectivo y mencionando Suárez Ahorra.
+- Bora Bora: 30% OFF por pagos en efectivo. Bora Bora Home: 15% en efectivo o transferencia.
+- Matices: 15% en efectivo. Tinta y Papel: 10% en efectivo o transferencia, además de Cuenta DNI.
+- Lomoro: agregado 20% para jubilados de lunes a jueves en efectivo, no acumulable con promociones.
+- Rinconcito Feliz: dirección Lamadrid 1710, teléfono 2926-518086 y beneficios de tarjetas/efectivo.
+- Farmacia Coronel Suárez: Jueves de Jubilados 15% en efectivo o transferencia, no incluye medicamentos.
+- Farmacia Gómez: se quitó el texto genérico de beneficios pendientes de transcripción para no publicar información incompleta.
+- Se conservó el teléfono de Guardia de Luz 2926-461000.
+
+Correcciones de revisión contra la guía del 09 al 21/11/2026:
+- Buró Librería y Gráfica: se completó la descripción de gráfica, cartelería, corpóreos, imprenta y librería; horario y 20% de reintegro Cuenta DNI de lunes a viernes.
+- Farmacia Gómez: se incorporó la promoción completa de aniversario, ruleta de descuentos de martes y sábados, y cupón para el sorteo de $5.000.000 del 27 de noviembre.
+- Lola Narsh y Con H: se completaron marcas, descripción y consulta de descuentos/promociones bancarias tal como aparecen en la guía.
+- El Club de las Mascotas: dirección corregida a Av. Alemanes del Volga 2719, Santa Trinidad; se agregaron línea Nutres, productos, Cuenta DNI 30% los sábados (tope $8.000) y envío gratis desde $10.000.
+- FAVA Tienda: 2926-404152 y 2926-405506.
+- FAVA Tarjeta: 2926-405506 y 2926-404152.
+- FAVA Préstamos: 2926-501399 y 2926-404152.
+- Pural: ficha completa con aniversario, sorteo de 3 órdenes de compra, 10% en efectivo mencionando Suárez Ahorra, 15% de descuento y envío gratis desde $10.000.
+- Se adaptaron las fichas para que cada teléfono FAVA sea un enlace de llamada independiente.

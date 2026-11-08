@@ -66,9 +66,9 @@ window.BUSINESSES = [
     "address": "Av. Alemanes del Volga 2717, Santa Trinidad",
     "phone": "2926-465749",
     "offers": [
-      "Milanesas de carne 2 kg $24.999; chorizo 2 kg $19.999; pata muslo 2 kg $11.990.",
-      "Picada 2 kg $21.999; 2 maples de huevo $10.000; milanesas de pollo 3 kg $30.000.",
-      "20% reintegro Cuenta DNI lunes a viernes."
+      "3 kg de pata muslo $15.900; 2 kg de milanesas $23.000.",
+      "Llevate 2 kg de pata muslo + 1 kg de alitas + 1 kg de medallones + 1 kg de milanesas por $40.000.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes."
     ]
   },
   {
@@ -173,9 +173,10 @@ window.BUSINESSES = [
     "phone": "2926413132",
     "offers": [
       "Botines, pelotas, canilleras, guantes de arquero y bolsos.",
-      "Compra online: www.puntopenal.com.ar.",
-      "3 cuotas sin interés con tarjetas; envíos sin cargo desde $30.000."
-    ]
+      "Comprá desde nuestra web: puntopenalcs.com.ar.",
+      "3 cuotas sin interés con tarjetas de crédito; 20% de descuento pagando en efectivo. Envíos sin cargo a partir de $30.000."
+    ],
+    "website": "https://puntopenalcs.com.ar"
   },
   {
     "logo": "assets/logo_original_ra_l_reser.jpeg",
@@ -218,11 +219,7 @@ window.BUSINESSES = [
     "category": "Indumentaria y Calzado",
     "address": "Sarmiento 260",
     "phone": "2926418135",
-    "offers": [
-      "Batas, camisones, pijamas, pantuflas, conjuntos de ropa interior y trajes de baño.",
-      "10% descuento efectivo; de lunes a viernes 20% reintegro Cuenta DNI.",
-      "Horario de 9 a 13 hs."
-    ],
+    "offers": [],
     "logo": "assets/logo_original_mar_a_modas.png"
   },
   {
@@ -244,7 +241,8 @@ window.BUSINESSES = [
     "phone": "2926454362",
     "offers": [
       "Indumentaria ambos sexos y prendas importadas de Italia.",
-      "Jeans $35.000; buzos desde $20.000; remeras $10.000; sweaters $20.000; camisas $18.000; pantalón sastrero $20.000."
+      "Jeans $35.000; buzos desde $20.000; remeras $10.000; sweaters $20.000; camisas $18.000; pantalón sastrero $20.000.",
+      "30% OFF por pagos en efectivo."
     ],
     "logo": "assets/logo_original_bora_bora.jpeg"
   },
@@ -333,14 +331,12 @@ window.BUSINESSES = [
     "name": "Lola Narsh",
     "category": "Indumentaria y Calzado",
     "address": "Brandsen esquina Lamadrid",
-    "phone": "1157245561",
+    "phone": "11-5724-5561",
     "offers": [
-      "Marcas: Levi’s, TUCCI, La Cofradía, LAMODE y DOLL STORE.",
-      "Banco Provincia: 30% y hasta 6 cuotas.",
-      "Banco Nación: 30% y hasta 12 pagos.",
-      "Elebar: 25% y 9 cuotas.",
-      "Coopeplus: 15% de ahorro y 3 cuotas.",
-      "10% de descuento pagando en efectivo o transferencia."
+      "Prendas distintas siempre.",
+      "Marcas de diseño en Suárez: Levi's, LaMode, Pato Pampa, La Cofradía, Tucci y Doll Store.",
+      "Consultá por descuentos y promociones bancarias.",
+      "Canastos de oportunidades increíbles todos los días."
     ],
     "logo": "assets/logo_original_lola_narsh.jpeg"
   },
@@ -359,14 +355,12 @@ window.BUSINESSES = [
     "name": "Con H",
     "category": "Indumentaria y Calzado",
     "address": "Brandsen 283",
-    "phone": "1157245561",
+    "phone": "11-5724-5561",
     "offers": [
-      "Indumentaria masculina; marcas Levi’s y Pato Pampa.",
-      "Banco Provincia: 30% y hasta 6 cuotas.",
-      "Banco Nación: 30% y hasta 12 pagos.",
-      "Elebar: 25% y 9 cuotas.",
-      "Coopeplus: 15% de ahorro y 3 cuotas.",
-      "10% de descuento pagando en efectivo o transferencia."
+      "El local de hombres más esperado en Suárez.",
+      "Nuestras marcas: Levi's, Pato Pampa y Elepants.",
+      "Jeans con el mejor calce y camisas de la mejor calidad.",
+      "Discontinuos a precios increíbles. Consultá por descuentos y promociones bancarias."
     ],
     "logo": "assets/logo_con_h_correcto.jpg"
   },
@@ -382,7 +376,8 @@ window.BUSINESSES = [
       "3 casattas $18.000 o $7.500 c/u.",
       "1 casatta o almendrado $9.500.",
       "2 mixto o almendrado $18.000.",
-      "1 kg de helado tradicional $16.000."
+      "1 kg de helado tradicional $16.000.",
+      "20% de descuento para jubilados de lunes a jueves, pagando en efectivo. No acumulable con promociones."
     ]
   },
   {
@@ -469,12 +464,12 @@ window.BUSINESSES = [
   {
     "logo": "assets/logo_original_scheihing.png",
     "name": "Scheihing",
-    "category": "Servicios",
-    "address": "Ameghino 684",
-    "phone": "2926408741",
+    "category": "Automotores",
+    "address": "Ameghino 64",
+    "phone": "2926-408741",
     "offers": [
-      "Servicio mecánico integral del automotor.",
-      "Todas las marcas."
+      "Servicio mecánico integral del automotor, todas las marcas.",
+      "Atención de lunes a sábados."
     ]
   },
   {
@@ -605,7 +600,7 @@ window.BUSINESSES = [
   {
     "name": "El Ángel de la Carne",
     "category": "Alimentos y Bebidas",
-    "address": "Av. Sixto Rodríguez",
+    "address": "Sixto Rodríguez 1241",
     "phone": "2926-542380",
     "offers": [
       "Paleta, chingolo, falda o bife ancho $15.990/kg.",
@@ -674,11 +669,9 @@ window.BUSINESSES = [
     "address": "Av. San Martín 218",
     "phone": "2926-409706",
     "offers": [
-      "Hasta 30% de descuento en productos seleccionados Lidherma.",
-      "10% de descuento en perfumes y fragancias.",
-      "Hasta 40% de descuento en dermocosmética.",
-      "Hasta 30% de descuento en productos capilares.",
-      "Botiquines de primeros auxilios."
+      "Este mes cumplimos 30 años acompañándote.",
+      "Martes y sábados: ruleta de descuentos en perfumería y regalos sorpresa.",
+      "Además, con tu compra en perfumería te llevás un cupón para participar del gran sorteo por $5.000.000 el 27 de noviembre."
     ],
     "logo": "assets/logo_original_farmacia_g_mez.jpeg"
   },
@@ -748,7 +741,9 @@ window.BUSINESSES = [
     "address": "",
     "phone": "2926-454362",
     "offers": [
-      "Electrodomésticos y artículos para el hogar; financiación y promociones."
+      "Celulares, Smart TV, heladeras, lavarropas, cocinas, muebles y colchones.",
+      "Consultá las ofertas y las formas de financiación en la tienda.",
+      "Todos los medios de pago."
     ],
     "logo": "assets/logo_original_casa_gonzalo.jpeg"
   },
@@ -768,8 +763,9 @@ window.BUSINESSES = [
     "address": "Villegas 242",
     "phone": "2926-401177",
     "offers": [
-      "Artículos de limpieza.",
-      "Todos los medios de pago; 10% de descuento pagando en efectivo.",
+      "Este mes cumplimos 1 año en nuestro nuevo local. Con tu compra participás en un sorteo por 3 órdenes de compra; completá tu cupón con cada compra.",
+      "10% de descuento pagando en efectivo, mencionando Suárez Ahorra.",
+      "15% de descuento.",
       "Envíos sin cargo en compras superiores a $10.000."
     ],
     "logo": "assets/logo_pural_correcto.png"
@@ -894,7 +890,8 @@ window.BUSINESSES = [
     "address": "Catriel 7 esquina Logia Lautaro",
     "phone": "2926-464137",
     "offers": [
-      "Artículos de librería y juguetería; personalización de tazas, remeras y cuadros."
+      "Artículos de librería y juguetería; personalización de tazas, remeras y cuadros.",
+      "15% de descuento pagando en efectivo."
     ],
     "logo": "assets/logo_matices.png"
   },
@@ -904,7 +901,9 @@ window.BUSINESSES = [
     "address": "Montevideo 1475, Santa Trinidad",
     "phone": "2926-546653",
     "offers": [
-      "Librería y juguetería; 20% reintegro Cuenta DNI de lunes a viernes."
+      "Librería y juguetería.",
+      "10% de descuento en efectivo o transferencia.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes."
     ],
     "logo": "assets/logo_tinta_y_papel.png"
   },
@@ -934,17 +933,21 @@ window.BUSINESSES = [
     "address": "Villegas 674",
     "phone": "2926-516917",
     "offers": [
-      "Veterinaria y atención para mascotas; 20% reintegro Cuenta DNI de lunes a viernes."
+      "20% de reintegro con Cuenta DNI de lunes a viernes.",
+      "Miércoles y sábados: 3 cuotas sin interés con Visa y Mastercard.",
+      "Alimentos, accesorios, pipetas y medicamentos para mascotas."
     ],
     "logo": "assets/logo_veterinaria_martin_fierro.jpg"
   },
   {
     "name": "El Club de las Mascotas",
     "category": "Mascotas",
-    "address": "Uriburu 719; Montevideo 1449, Santa Trinidad",
+    "address": "Av. Alemanes del Volga 2719, Santa Trinidad",
     "phone": "2926-404666",
     "offers": [
-      "Alimentos balanceados, accesorios y forrajería."
+      "Toda la línea NUTRES. Todo para tus mascotas: alimentos, accesorios, juguetes y camitas.",
+      "Cuenta DNI: 30% de reintegro los sábados (tope de $8.000).",
+      "Envíos sin cargo a partir de los $10.000."
     ],
     "logo": "assets/logo_club_de_las_mascotas.jpg"
   },
@@ -964,8 +967,9 @@ window.BUSINESSES = [
     "address": "R. Argentina 1290",
     "phone": "2926-400755",
     "offers": [
-      "20% reintegro Cuenta DNI de lunes a viernes; promociones en pizzas, empanadas y pollo.",
-      "Sorteo aniversario: participás con tu compra."
+      "Consultá el menú diario de cocina casera.",
+      "Menú variado de platos y postres: pizzas, empanadas, tartas, pollos, carnes, ensaladas, pastas, guisos, milanesas y hamburguesas.",
+      "Aceptamos tarjeta de débito, crédito y Mercado Pago."
     ],
     "logo": "assets/logo_tato_correcto.png"
   },
@@ -991,11 +995,13 @@ window.BUSINESSES = [
   },
   {
     "name": "Lavadero C&P",
-    "category": "Servicios",
+    "category": "Automotores",
     "address": "Monseñor de Andrea 1761",
-    "phone": "2914-638272",
+    "phone": "291-4638272",
     "offers": [
-      "Lavado de autos, camionetas, motos, carros, camiones y acoplados; limpieza de tapizados."
+      "Lavado de autos, motos, camionetas, carros, camiones y acoplados.",
+      "Incorporamos limpieza de tapizados.",
+      "Con tu lavado te regalamos el pulido de ópticas. Pedí tu turno."
     ],
     "logo": "assets/logo_original_lavadero_cp.png"
   },
@@ -1005,25 +1011,19 @@ window.BUSINESSES = [
     "address": "Av. Alemanes del Volga 1009, Santa María",
     "phone": "",
     "offers": [
-      "Platos playos de diario $1.000.",
-      "Copas $3.900.",
-      "Repasadores $1.800.",
-      "Cortinas de baño de tela rústica $19.400.",
-      "Protector de cortina $7.150.",
-      "Ganchos $14.900."
+      "15% de descuento en efectivo o transferencia."
     ],
     "logo": "assets/logo_bora_bora_home.png"
   },
   {
     "name": "Lavadero El Toni",
-    "category": "Servicios",
+    "category": "Automotores",
     "logo": "assets/logo_lavadero_el_toni.png",
     "address": "Maipú 4483, San José",
-    "phone": "2926400800",
+    "phone": "2926-400800",
     "offers": [
       "Lavadero de autos y camionetas.",
-      "Atiende de lunes a sábados.",
-      "Promoción publicada: autos $35.000 y camionetas $40.000; consultar vigencia."
+      "Promoción publicada del 6 al 14 de noviembre: autos $35.000 y camionetas $40.000. Llamá y pedí tu turno."
     ]
   },
   {
@@ -1043,12 +1043,12 @@ window.BUSINESSES = [
     "category": "Electrodomésticos y Tecnología",
     "logo": "assets/logo_fava_tienda.png",
     "address": "Sarmiento 163",
-    "phone": "2926422304",
+    "phone": "2926-404152 / 2926-405506",
     "website": "https://fava.com.ar",
     "offers": [
-      "Celulares, Smart TV, heladeras, lavarropas, muebles, colchones y cocinas.",
-      "Todos los medios de pago.",
-      "Consultá ofertas y opciones de financiación en fava.com.ar."
+      "Celulares, Smart TV, heladeras, lavarropas, cocinas, muebles y colchones.",
+      "Las mejores ofertas y formas de financiación en artículos del hogar.",
+      "Todos los medios de pago. Web: https://fava.com.ar/tienda"
     ]
   },
   {
@@ -1056,12 +1056,12 @@ window.BUSINESSES = [
     "category": "Servicios Financieros",
     "logo": "assets/logo_fava_prestamos.png",
     "address": "Sarmiento 163",
-    "phone": "2926422304",
+    "phone": "2926-501399 / 2926-404152",
     "website": "https://fava.com.ar",
     "offers": [
-      "Solicitá tu préstamo online en fava.com.ar.",
-      "Montos y cuotas sujetos a condiciones vigentes.",
-      "También podés solicitarlo presencialmente en la sucursal."
+      "Solicitá tu préstamo en Sarmiento 163.",
+      "Hasta $2.500.000; hasta 24 cuotas fijas y en pesos.",
+      "https://fava.com.ar/prestamos"
     ]
   },
   {
@@ -1069,12 +1069,12 @@ window.BUSINESSES = [
     "category": "Servicios Financieros",
     "logo": "assets/logo_fava_tarjeta.png",
     "address": "Sarmiento 163",
-    "phone": "2926422304",
+    "phone": "2926-405506 / 2926-404152",
     "website": "https://fava.com.ar",
     "offers": [
-      "Solicitá tu tarjeta online en fava.com.ar.",
-      "Beneficios y promociones en tiendas de Suárez.",
-      "Consultá condiciones y promociones vigentes en la web."
+      "Solicitá tu tarjeta en Sarmiento 163.",
+      "Mínimos requisitos, beneficios y descuentos exclusivos en tiendas de Suárez.",
+      "Promociones exclusivas todas las semanas. https://fava.com.ar/tarjeta"
     ]
   },
   {
@@ -1085,8 +1085,8 @@ window.BUSINESSES = [
     "phone": "2926456599",
     "offers": [
       "Circuitos, viajes y turismo.",
-      "Prepará tu próximo viaje; asesoramiento personalizado.",
-      "Consultar próximas salidas y promociones vigentes."
+      "Viajes en diciembre: Mar del Plata 04/12 desde $279.000; Termas de Federación 28/12 desde $489.000; Villa de Merlo 29/12 desde $389.000.",
+      "Comunicate para recibir asesoramiento."
     ]
   },
   {
@@ -1096,11 +1096,10 @@ window.BUSINESSES = [
     "address": "Avellaneda esquina Lavalle",
     "phone": "2926500906",
     "offers": [
-      "Jueves de jubilados: 15% de descuento en efectivo o transferencia.",
       "La promoción publicada excluye medicamentos; consultar vigencia."
     ]
-  }
-  ,{
+  },
+  {
     "name": "Alfajores de la Costa",
     "category": "Alimentos y Bebidas",
     "logo": "assets/logo_alfajores_de_la_costa.jpg",
@@ -1110,6 +1109,107 @@ window.BUSINESSES = [
       "Alfajores rellenos de dulce de leche y baño de chocolate.",
       "Bandejas de 4 o 6 unidades.",
       "Envíos a domicilio y pedidos por mayor para comercios."
+    ]
+  },
+  {
+    "name": "Mini Bombi",
+    "category": "Alimentos y Bebidas",
+    "address": "Brandsen 214",
+    "phone": "",
+    "offers": [
+      "Venta de golosinas por mayor y menor. Mucho surtido y buenos precios."
+    ],
+    "logo": "assets/logo_mini_bombi.jpg"
+  },
+  {
+    "name": "Panadería Burgardt",
+    "category": "Alimentos y Bebidas",
+    "address": "Las Heras 1807",
+    "phone": "2926-431375",
+    "offers": [
+      "Panadería y confitería. Panes, facturas, tortas, budines, pizzas, bizcochitos dulces y salados, sándwiches y pastelitos."
+    ],
+    "logo": "assets/logo_burgardt.jpg"
+  },
+  {
+    "name": "La Pollería de Sixto",
+    "category": "Alimentos y Bebidas",
+    "address": "Av. S. Rodríguez 466",
+    "phone": "2926-516607",
+    "offers": [
+      "3 kg de pata muslo $15.900; 2 kg de milanesas $23.000.",
+      "Combo: 2 kg de pata muslo + 1 kg de alitas + 1 kg de medallones + 1 kg de milanesas por $40.000.",
+      "20% de reintegro con Cuenta DNI de lunes a viernes."
+    ],
+    "logo": "assets/logo_polleria_sixto.jpg"
+  },
+  {
+    "name": "Escapes Bichi",
+    "category": "Automotores",
+    "address": "Urquiza 236",
+    "phone": "2926-458370",
+    "offers": [
+      "Venta, reparación y reemplazo de escapes originales y deportivos.",
+      "Accesorios 4x4, reparaciones generales y mecánica ligera."
+    ],
+    "logo": "assets/logo_escapes_bichi.jpg"
+  },
+  {
+    "name": "Organización Doria",
+    "category": "Seguros",
+    "address": "Belgrano 1298",
+    "phone": "2926-422906",
+    "offers": [
+      "Seguros para automotores, hogar, agro, accidentes personales, ART y caución.",
+      "Trabaja con Federación Patronal, Zurich, Mapfre y Provincia Seguros."
+    ],
+    "logo": "assets/logo_organizacion_doria.jpg"
+  },
+  {
+    "name": "Olivia Casa de Comidas",
+    "category": "Restaurantes, Bares, Rotiserías y Heladerías",
+    "address": "Av. 12 de Octubre esquina San Lorenzo",
+    "phone": "2926-452117",
+    "offers": [
+      "Platos abundantes, ricos y económicos.",
+      "Sandwichería, pizzas, empanadas, tartas, viandas diarias y menú para empresas.",
+      "Parrillada, pechugas, hamburguesas, strudel y postres. Hacemos envíos."
+    ],
+    "logo": "assets/logo_olivia.jpg"
+  },
+  {
+    "name": "Perfosuar",
+    "category": "Servicios",
+    "address": "",
+    "phone": "2926-413421",
+    "offers": [
+      "Perforaciones de pozos de agua en campo y ciudad.",
+      "Bombas centrífugas y sumergibles. Armado de aguadas solares."
+    ],
+    "logo": "assets/logo_perfosuar.jpg"
+  },
+  {
+    "name": "Buró Librería y Gráfica",
+    "category": "Librerías, Jugueterías y Cotillón",
+    "address": "Avenida Casey 852",
+    "phone": "2926-417831",
+    "offers": [
+      "Gráfica, cartelería, corpóreos, imprenta y librería; golosinas personalizadas.",
+      "De lunes a viernes de 07:00 a 13:00 y de 15:30 a 20:00.",
+      "De lunes a viernes: 20% de reintegro con Cuenta DNI."
+    ],
+    "logo": "assets/logo_buro.jpg"
+  },
+  {
+    "name": "Rinconcito Feliz",
+    "category": "Indumentaria y Calzado",
+    "logo": "assets/logo_rinconcito_feliz.jpg",
+    "address": "Lamadrid 1710",
+    "phone": "2926-518086",
+    "offers": [
+      "Indumentaria para chicos.",
+      "3 y 6 cuotas sin interés con tarjetas VISA y MASTERCARD.",
+      "20% OFF abonando en efectivo."
     ]
   }
 ];
